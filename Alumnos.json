@@ -1,0 +1,76 @@
+{
+"idAlumno":2, 
+"Nombres": "Juan Miguel", 
+"Apellidos": "Benítez Castillo", 
+"Edad":3,
+"idCurso": 1
+}
+
+{
+"idAlumno":3, 
+"Nombres": "Hugo Martín", 
+"Apellidos": "Castro Díaz", 
+"Edad":5,
+"idCurso": 2
+}
+
+{
+"idAlumno":4, 
+"Nombres": "Leo Lucas", 
+"Apellidos": "Contreras De León", 
+"Edad":5,
+"idCurso": 3
+}
+
+{
+"idAlumno":5, 
+"Nombres": "Mateo Daniel", 
+"Apellidos": "Duarte García", 
+"Edad":4,
+"idCurso": 1
+}
+
+{
+"idAlumno":6, 
+"Nombres": "Enzo David ", 
+"Apellidos": "Flores Giménez", 
+"Edad":3,
+"idCurso": 2
+}
+
+{
+"idAlumno":7, 
+"Nombres": "Marco Javier", 
+"Apellidos": "Gonzales Hernández", 
+"Edad":3,
+"idCurso": 3
+}
+
+{
+"idAlumno":8, 
+"Nombres": "Bruno Antonio", 
+"Apellidos": "Gutiérrez Mejía", 
+"Edad":4
+}
+
+{
+"idAlumno":9, 
+"Nombres": "Ángel Liam", 
+"Apellidos": "Morales Muñoz", 
+"Edad":5,
+"idCurso": 1
+}
+
+{
+"idAlumno":10, 
+"Nombres": "Iker Francisco", 
+"Apellidos": "Pérez Rivera", 
+"Edad":4,
+"idCurso": 2
+}
+
+
+
+
+
+
